@@ -1,0 +1,2 @@
+news.sina.com.cn: HTTPS is working, certificate expires on 2025-01-03 23:59:59
+www.baidu.com: HTTPS is working, certificate expires on 2025-08-09 01:41:01
